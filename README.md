@@ -140,3 +140,23 @@ Protocol mismatch.
     • Port 445: Service not detected
 --------------------------------------------------
 ```
+### Screenshots of installation and port scanning 
+
+1. git clone the tool
+![Screenshot 2024-12-05 120056](https://github.com/user-attachments/assets/440d4547-150c-43a8-b6c1-3d62313bca03)
+
+2. cd to the python-portscanner directory
+![Screenshot 2024-12-05 120555](https://github.com/user-attachments/assets/dda47eb9-e8a9-45af-867b-5df1783e36ce)
+
+3. Then install the requirments.txt
+
+![image](https://github.com/user-attachments/assets/bac93366-9516-45d7-a7c4-059ebc274156)
+
+4. Then scan the target IP you want
+
+this will be the output looks like 
+
+![image](https://github.com/user-attachments/assets/d3245998-66b4-46fa-bb26-0f430f0df24b)
+![image](https://github.com/user-attachments/assets/9ccb9359-a35a-450d-a52f-24c925aeac26)
+![image](https://github.com/user-attachments/assets/901a808e-50f9-4561-891b-738a7cd509d8)
+
