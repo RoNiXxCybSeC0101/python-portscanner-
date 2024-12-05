@@ -17,7 +17,7 @@ Follow these steps to set up the project on your local machine.
 ### Step 1: Clone the Repository
 First, clone the repository from GitHub to your local machine:
 ```bash
-git clone https://github.com/<your-username>/portscanner.git
+git clone https://github.com/RoNiXxCybSeC0101/python-portscanner-.git
 cd portscanner
 ```
 
