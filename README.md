@@ -18,9 +18,10 @@ Follow these steps to set up the project on your local machine.
 First, clone the repository from GitHub to your local machine:
 ```bash
 git clone https://github.com/RoNiXxCybSeC0101/python-portscanner-.git
-cd portscanner
 ```
-
+```
+cd python-portscanner
+```
 ### Step 2: Set up a Virtual Environment (Optional but recommended)
 
 It's a good practice to create a virtual environment to isolate dependencies. This ensures that your project dependencies don't interfere with other Python projects on your machine.
